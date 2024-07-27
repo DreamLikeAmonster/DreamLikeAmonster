@@ -16,8 +16,6 @@ Want to see the Random Code? you choose the right person :>
 <img src="https://telegra.ph/file/a4dc24601836e7657388c.jpg" width="300" align="left" />
 <hr>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=esacaesar7&cover_image=true&theme=natemoo-re&bar_color=3dd8ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=XMHVZwXeQWm4ML4E5YieOQ&redirect=true)
-  
 #### languages and tools I've used
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=20> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width=20>
 <a href="https://discord.js.org"><img src="https://discordjs.guide/favicon.png" width="20" alt="discord.js" /></a>
