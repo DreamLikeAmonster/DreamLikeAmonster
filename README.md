@@ -1,13 +1,14 @@
 <div>
-<img src="https://telegra.ph/file/ebf28c7221fc66c11eea5.jpg" width="200" align="right" />
+<img src="https://i.pinimg.com/originals/bc/da/8b/bcda8b7fb3e7300b132b848ae5a8585a.jpg" width="200" align="right" />
   <h1> About Me:3 </h1>
-Hello, I'm Yuko Sora you can call me Sora. I'm a weebs in this universe <br>Hmm but im currently learning Japanese.
+Hello, I'm Koi. a weebs in this universe <br>Hmm but im currently learning Japanese.
 
 Want to see the Random Code? you choose the right person (≧∇≦)/
 
 ####
 [![Discord](https://discord.c99.nl/widget/theme-2/918872621892911164.png)](https://discord.com/users/918872621892911164)
 
+[![Web](https://img.shields.io/badge/Personal%20Website-4287f5)](https://yuko.my.id)
 <img src="https://komarev.com/ghpvc/?username=DreamLikeAmonster&label=Profile%20views&color=0e75b6&style=flat" alt="DreamLikeAmonster" />
 </div>
 
@@ -41,6 +42,6 @@ Want to see the Random Code? you choose the right person (≧∇≦)/
   <summary>Github Stats</summary>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamLikeAmonster&layout=compact&show_icons=true&theme=radical)](https://github.com/DreamLikeAmonster)
-![Yuko github stats](https://github-readme-stats.vercel.app/api?username=DreamLikeAmonster&show_icons=true&theme=radical)
+![Yuko github stats](https://github-readme-stats.vercel.app/api?username=iseizuu&show_icons=true&theme=radical)
 </details>
 </div>
