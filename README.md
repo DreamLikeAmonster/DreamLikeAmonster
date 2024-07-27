@@ -41,6 +41,6 @@ Want to see the Random Code? you choose the right person :>
   <summary>Github Stats</summary>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamLikeAmonster&layout=compact&show_icons=true&theme=radical)](https://github.com/DreamLikeAmonster)
-![Koi github stats](https://github-readme-stats.vercel.app/api?username=DreamLikeAmonster&show_icons=true&theme=radical)
+![Yuko github stats](https://github-readme-stats.vercel.app/api?username=DreamLikeAmonster&show_icons=true&theme=radical)
 </details>
 </div>
