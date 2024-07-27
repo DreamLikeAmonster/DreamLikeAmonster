@@ -13,8 +13,8 @@ Want to see the Random Code? you choose the right person :>
 
 
 <div>
-<img src="https://telegra.ph/file/a4dc24601836e7657388c.jpg" width="300" align="left" />
-<hr>
+  <img src="https://telegra.ph/file/a4dc24601836e7657388c.jpg" width="300" align="left" style="transform: rotate(-90deg);" />
+  <hr>
   
 #### languages and tools I've used
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=20> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width=20>
