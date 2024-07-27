@@ -3,7 +3,7 @@
   <h1> About Me:3 </h1>
 Hello, I'm Yuko. I'm a front-end/back-end developer <br>Hmm but im currently learning JavaScript, TypeScript, C#.
 
-Want to see the Spaghetti Code? you choose the right person (≧∇≦)/
+Want to see the Spaghetti Code? you choose the right person:)
 
 ####
 [![Discord](https://discord.c99.nl/widget/theme-2/918872621892911164.png)](https://discord.com/users/918872621892911164)
