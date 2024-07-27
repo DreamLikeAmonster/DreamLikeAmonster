@@ -8,7 +8,7 @@ Want to see the Random Code? you choose the right person :>
 ####
 [![Discord](https://discord.c99.nl/widget/theme-2/918872621892911164.png)](https://discord.com/users/918872621892911164)
 
-<img src="https://komarev.com/ghpvc/?username=DreamLikeAmonster&label=Profile%20views&color=0e75b6&style=flat" alt="DreamLikeAmonster" />  [![Discord](https://discordapp.com/api/guilds/754960201215508521/embed.png)](https://discord.gg/cottonbuds)
+<img src="https://komarev.com/ghpvc/?username=DreamLikeAmonster&label=Profile%20views&color=0e75b6&style=flat" alt="DreamLikeAmonster" />
 </div>
 
 
