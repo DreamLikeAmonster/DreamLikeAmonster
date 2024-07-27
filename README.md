@@ -1,7 +1,7 @@
 <div>
-<img src="https://i.pinimg.com/originals/bc/da/8b/bcda8b7fb3e7300b132b848ae5a8585a.jpg" width="200" align="right" />
+<img src="https://telegra.ph/file/ebf28c7221fc66c11eea5.jpg" width="200" align="right" />
   <h1> About Me:3 </h1>
-Hello, I'm Koi. a weebs in this universe <br>Hmm but im currently learning Japanese.
+Hello, I'm Yuko. I'm a weebs in this universe <br>Hmm but im currently learning Japanese.
 
 Want to see the Random Code? you choose the right person (≧∇≦)/
 
