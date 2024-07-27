@@ -9,8 +9,8 @@
 </div>
 
 <div>
-  <img src="https://telegra.ph/file/a4dc24601836e7657388c.jpg" width="300" align="left" style="transform: rotate(-90deg);" />
-  <hr>
+<img src="https://telegra.ph/file/8615beb60dfa1bc2eafd5.jpg" width="300" align="left" />
+<hr>
   
   #### languages and tools I've used
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=20>
