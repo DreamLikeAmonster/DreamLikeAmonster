@@ -1,10 +1,9 @@
 <div>
 <img src="https://telegra.ph/file/ebf28c7221fc66c11eea5.jpg" width="200" align="right" />
   <h1> About Me:3 </h1>
-Hello, I'm Yuko. I'm a front-end/back-end developer
-  
-Hmm but im currently learning JavaScript, TypeScript, C#.
- Want to see the Random Code? you choose the right person (≧∇≦)/
+Hello, I'm Yuko. I'm a front-end/back-end developer <br>Hmm but im currently learning JavaScript, TypeScript, C#.
+
+Want to see the Random Code? you choose the right person (≧∇≦)/
 
 ####
 [![Discord](https://discord.c99.nl/widget/theme-2/918872621892911164.png)](https://discord.com/users/918872621892911164)
