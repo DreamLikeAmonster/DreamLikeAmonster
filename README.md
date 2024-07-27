@@ -4,6 +4,7 @@
 Hello, I'm Yuko. I'm a front-end/back-end developer
   
 Hmm but im currently learning JavaScript, TypeScript, C#.
+
 Want to see the Random Code? you choose the right person (≧∇≦)/
 
 ####
