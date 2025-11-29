@@ -1,47 +1,38 @@
-<div>
-<img src="https://telegra.ph/file/ebf28c7221fc66c11eea5.jpg" width="200" align="right" />
-  <h1> About Me:3 </h1>
-Hello, I'm Yuko. I'm a front-end/back-end developer <br>Hmm but im currently learning JavaScript, TypeScript, C#.
+<div style="max-width:900px; margin:auto; font-family:sans-serif;">
+  <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px;">
+    <img src="https://telegra.ph/file/ebf28c7221fc66c11eea5.jpg" width="180" style="border-radius:10px;" />
+    <div>
+      <h1 style="margin:0;">About Me:3</h1>
+      <p style="margin:4px 0;">Hello, I'm Yuko. I'm a front-end/back-end developer.<br>
+      Currently learning JavaScript, TypeScript, and C#.<br>
+      Want to see the Spaghetti Code? You chose the right person :)</p>
+      <a href="https://discord.com/users/918872621892911164">
+        <img src="https://discord.c99.nl/widget/theme-2/918872621892911164.png" alt="Discord" style="margin-top:8px; border-radius:5px;" />
+      </a>
+    </div>
+  </div>
 
-Want to see the Spaghetti Code? you choose the right person:)
+  <hr style="margin:20px 0; border:none; border-top:1px solid #ccc;" />
 
-####
-[![Discord](https://discord.c99.nl/widget/theme-2/918872621892911164.png)](https://discord.com/users/918872621892911164)
-
-[![Web](https://img.shields.io/badge/Personal%20Website-4287f5)](https://yuko.my.id)
-<img src="https://komarev.com/ghpvc/?username=DreamLikeAmonster&label=Profile%20views&color=0e75b6&style=flat" alt="DreamLikeAmonster" />
-</div>
-
-
-<div>
-<img src="https://telegra.ph/file/8615beb60dfa1bc2eafd5.jpg" width="300" align="left" />
-<hr>
-  
-#### languages and tools I've used
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width=20> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width=20>
-<a href="https://discord.js.org"><img src="https://discordjs.guide/favicon.png" width="20" alt="discord.js" /></a>
-<img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
-<img height="20" src="https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white"/>
-<img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img height="20" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=whitee"/>
-<img height="20" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
-<img height="20" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=blue"/>
-<img height="20" src="https://img.shields.io/badge/-Vercel-ffffff?style=flat-square&logo=vercel&logoColor=black"/>
-<img height="20" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<hr>
-
-### ⚙ &nbsp;GitHub Analytics
-
----
-
-|        Yuko Commit Streak        |
-|:--------------------------------:|
-|    [![Streaks](https://streak-stats.demolab.com/?user=DreamLikeAmonster&theme=radical)](https://streak-stats.demolab.com/)    |
-
-<details align="center">
-  <summary>Github Stats</summary>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamLikeAmonster&layout=compact&show_icons=true&theme=radical)](https://github.com/DreamLikeAmonster)
-![Yuko github stats](https://github-readme-stats.vercel.app/api?username=DreamLikeAmonster&show_icons=true&theme=radical)
-</details>
+  <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:20px;">
+    <img src="https://telegra.ph/file/8615beb60dfa1bc2eafd5.jpg" width="280" style="border-radius:10px;" />
+    <div style="flex:1;">
+      <h4 style="margin-top:0;">Languages and Tools I've Used</h4>
+      <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="28" />
+        <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="28" />
+        <a href="https://discord.js.org">
+          <img src="https://discordjs.guide/favicon.png" width="28" alt="discord.js" />
+        </a>
+        <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="28" />
+        <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white" height="28" />
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28" />
+        <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" height="28" />
+        <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" height="28" />
+        <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61dafb" height="28" />
+        <img src="https://img.shields.io/badge/-Vercel-ffffff?style=flat-square&logo=vercel&logoColor=000000" height="28" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="28" />
+      </div>
+    </div>
+  </div>
 </div>
