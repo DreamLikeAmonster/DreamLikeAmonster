@@ -22,7 +22,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="28" />
         <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="28" />
         <a href="https://discord.js.org">
-          <img src="https://discordjs.guide/favicon.png" width="28" alt="discord.js" />
+          <img src="https://discord.js.org/logo.svg" width="28" alt="discord.js" />
         </a>
         <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="28" />
         <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white" height="28" />
