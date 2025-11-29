@@ -20,10 +20,13 @@
       <h4 style="margin-top:0;">Languages and Tools I've Used</h4>
       <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="28" />
-        <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="28" />
+        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" alt="TypeScript" />
+        
         <a href="https://discord.js.org">
-          <img src="https://discord.js.org/logo.svg" width="28" alt="discord.js" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" width="28" alt="discord.js" />
         </a>
+
         <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="28" />
         <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white" height="28" />
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28" />
